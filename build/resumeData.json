@@ -92,6 +92,12 @@
         "category": "",
         "image": "netflix-thumbnail.png",
         "url": "https://beky-netflix.netlify.app/"
+      },
+      {
+        "title": "Admin Panel UI",
+        "category": "",
+        "image": "admin-panel.png",
+        "url": "https://beky-admin.netlify.app/"
       }
       
     ]
