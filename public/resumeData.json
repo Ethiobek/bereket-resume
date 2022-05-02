@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name": "Bereket Zergaw",
+    "occupation": "Junior Software Engineer |  Frontend Developer",
+    "description": "Success is my duty, obligation, and responsiblity!",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Bereket!  I've been coding for over 3 years now starting from university at ICT incubation center. One year professional experience as junior software developer and system trainer. I have been participated to three projects to BenaSoft System PLC for college management system as requirment engineer and front end developer, electronic library management system as database designer and ERP system as system technical trainer. ",
+    "contactmessage": "Get in touch with me!",
+    "email": "arkishasoftware@gmail.com",
+    "phone": "+251-925-673-592",
+    "address": {
+      "street": "Hawassa, Ethiopia",
+      "city": "",
+      "state": "Around Mobile Sefer (Able to move to Addis Ababa)",
+      "zip": ""
+    },
+    "website": "https://www.benasofts.et",
+    "resumedownload": "https://drive.google.com/file/d/13E_DPzntXv5IzjFQjv8dTT26KNgsJpIf/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCVeuszwPL2Ao3o1p9mb6eOQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/bereket.zergaw",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bereket-zergaw-977656184/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/zergawbereket/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ethiobek",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Wolkite University",
+        "degree": "Bachelor's Degree, Software Engineering",
+        "graduated": "Jan 2021",
+        "description": "Graduated with Great Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "BenaSoft Systems",
+        "title": "Junior software developer and Customer Service Expert",
+        "years": "Feb 2021 - Present",
+        "description": " Worked on web application projects for school and college management system. Deployment of BenaSoft ERP and MaleNet student information management system."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "87%"
+      },
+      {
+        "name": "Graphics Design",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone",
+        "category": "",
+        "image": "netflix-thumbnail.png",
+        "url": "https://beky-netflix.netlify.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Bereket is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Mr. Habtamu Abraham | Founder & CEO of Malef Drug & Medical Wholesale"
+      }
+      
+    ]
+  }
+}
