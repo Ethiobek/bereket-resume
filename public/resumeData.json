@@ -94,7 +94,7 @@
         "url": "https://beky-netflix.netlify.app/"
       },
       {
-        "title": "Admin Panel UI",
+        "title": "Admin Panel UI using React",
         "category": "",
         "image": "admin-panel.png",
         "url": "https://beky-admin.netlify.app/"
