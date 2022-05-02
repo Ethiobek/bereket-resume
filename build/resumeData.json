@@ -88,7 +88,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Netflix Clone",
+        "title": "Netflix Clone with React",
         "category": "",
         "image": "netflix-thumbnail.png",
         "url": "https://beky-netflix.netlify.app/"
